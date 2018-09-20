@@ -1,2 +1,2 @@
-# kivu96.ajnstajn.io
+# kivu96.github.ajnstajn.io
 Ajnstajnova zagonetka
